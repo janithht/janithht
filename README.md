@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithht&show_icons=true&locale=en" alt="janithht" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithht&" alt="janithht" /></p>
+<p><center>Show some ❤️ by starring some of the repositories!</center></p>
