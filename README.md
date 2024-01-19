@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithht&label=Profile%20views&color=0e75b6&style=flat" alt="janithht" /> </p>
 
-- 🔭 I’m currently working on [L2 Software Project](https://github.com/Yasas2000/Level-2-project-ChildishThings)
-
-- 🌱 I’m currently learning **Flutter, Node.js , Java**
+- 🔭 I currently works at WSO2
 
 - 📫 How to reach me **jhathnagoda@gmail.com**
 
