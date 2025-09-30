@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithht&label=Profile%20views&color=0e75b6&style=flat" alt="janithht" /> </p>
 
-- 🔭 I currently works at WSO2
+- 🔭 I currently work at 99x
 
 - 📫 How to reach me **jhathnagoda@gmail.com**
 
